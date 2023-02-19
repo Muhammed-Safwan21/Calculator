@@ -1,1 +1,1 @@
-# CalculatorProject
+#  Simple CalculatorProject using JavaScript
